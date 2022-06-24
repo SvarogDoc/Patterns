@@ -1,4 +1,5 @@
 # Домашнее задание к занятию «2.3. Patterns»
+[![Build status](https://ci.appveyor.com/api/projects/status/nll8pe0dt3klyku2?svg=true)](https://ci.appveyor.com/project/SvarogDoc/patterns)
 
 ## Задача №1 - Заказ доставки карты (изменение даты)
 
